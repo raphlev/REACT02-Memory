@@ -1,11 +1,21 @@
-# Cours React en français sur OpenClassrooms
+# Jeux react Memory
 
-Ce dépôt sert de support au cours francophone React sur [OpenClassrooms](https://openclassrooms.com/).
+Jeux de mémoire de https://github.com/deliciousinsights/ocr-memory/tree/master
+Basé sur react-scripts to create development env and the production build
 
-Il contient toute une série de tags permettant de récupérer le code d’une étape, finalisé, mais aussi d’aller récupérer des feuilles de style et squelettes de code pour certains chapitres du cours afin de se concentrer sur le savoir-faire du chapitre.
+# Scaffold react Project using create-react-app
 
-© 2017 [Delicious Insights](https://delicious-insights.com/)
+npm install --global create-react-app
+create-react-app Memory
 
-Ce support est distribué sous licence MIT.  Le cours OpenClassrooms est mis à disposition sous licence Creative Commons.
+--> Installing react, react-dom, and react-scripts in the project dependencies...
+--> create application folders and startup files such as public/index.html or stc/App.js
 
-Bon apprentissage à tou·te·s ! 😁
+# Install and rstart dev
+
+npm install
+npm run start
+
+# Creating an optimized production build
+
+npm run build
