@@ -1,6 +1,8 @@
 # Jeux react Memory
 
 Jeux de mémoire de https://github.com/deliciousinsights/ocr-memory/tree/master
+Cours React: https://drive.google.com/file/d/1DnwGaolGxL2989J-XUUiK62rk52xY5v6/view?usp=sharing
+
 Basé sur react-scripts to create development env and the production build
 
 # Scaffold react Project using create-react-app
